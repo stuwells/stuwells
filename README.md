@@ -9,4 +9,5 @@ stuwells/stuwells is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->I am Stuart Wells
 I am working on reproductive phsyiology and behavior
-i can be reached at stuartwells@email.arizona.edu
+i can be reached at stuartwells@arizona.edu
+
